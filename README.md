@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Paulo Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=peimelo&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peimelo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peimelo&layout=compact)
